@@ -26,7 +26,7 @@ SECRET_KEY ='django-insecure-xd_r1rho8ge$h55=11)w+hw3ber(fjq8db$*t$pe9dolokb&3o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['googleclone-production.up.railway.app']
 
 
 # Application definition
